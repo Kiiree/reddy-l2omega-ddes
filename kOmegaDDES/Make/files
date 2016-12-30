@@ -1,0 +1,3 @@
+kOmegaDDES.C
+
+LIB = $(FOAM_LIBBIN)/lib_kOmegaDDES_incompressibleRASModels
