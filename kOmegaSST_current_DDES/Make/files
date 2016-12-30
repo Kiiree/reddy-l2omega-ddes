@@ -1,0 +1,3 @@
+kOmegaSST_current_DDES.C
+
+LIB = $(FOAM_LIBBIN)/lib_kOmegaSST_current_DDES_incompressibleRASModels
